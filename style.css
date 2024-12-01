@@ -5,12 +5,13 @@
     
 #divOfFirstParagrap{
     background-color:lightpink;
-    width: 15%;
+    width: 20%;
     border: blue 1px solid;
     text-align: center;
 }
 #FirstParagrap{
     color: red; 
+    font-size: 18px;
 }
 #divOfsecondParagrap{
     font-size: 20px;
