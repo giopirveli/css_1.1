@@ -1,0 +1,50 @@
+#title{
+    color: purple;
+    text-align: center;
+}
+    
+#divOfFirstParagrap{
+    background-color:lightpink;
+    width: 15%;
+    border: blue 1px solid;
+    text-align: center;
+}
+#FirstParagrap{
+    color: red; 
+}
+#divOfsecondParagrap{
+    font-size: 20px;
+    width: 35%;
+    text-align: center;
+    border-top: grey 2px solid;
+    border-bottom: greenyellow 2px solid;
+    border-left: blue 2px solid;
+    border-right: red 2px solid;
+}
+#secondParagrap{
+    color: gray;
+}
+#divOfThirdParagrap{
+    background-color: lightpink;
+    width: 35%;
+    text-align:center;
+    border: white 1px solid;
+}
+#thirdParagrap{
+    color: black;
+    font-size: 20px;
+}
+#divOffourthParagrap{
+border: solid 2px blue;
+text-align: right;
+width: 40%;
+}
+#fourthParagrap{
+    color: blue;
+}
+snap{
+    color: red;
+}
+img{
+    width: 20%;
+}
